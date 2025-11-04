@@ -3,4 +3,7 @@ mahendra reddy
 how are you
 
 chennai lo unn amhendra 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa71f7f0dd91564d028dac1bba79a8f1d7fcf13d
