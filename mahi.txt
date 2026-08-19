@@ -1,3 +1,12 @@
 
+<<<<<<< HEAD
 how are you mahendra reddy
+=======
+mahendra reddy
+how are you
+chennai lo unn amhendra 
+>>>>>>> edb47fb2dc4f62b643dda39af9c1b7a76ca5c181
+
+
+
 
